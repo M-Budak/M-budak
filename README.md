@@ -10,7 +10,7 @@ I gained experience in front end development, UI designs, digital marketing, bus
 
 - 📫 Connect with me: **budakm16@itu.edu.tr**
 
-<h3 align="left">Get in Touch</h3><h5>👇</h5>
+<h3 align="left">Get in Touch<h5>👇</h5></h3>
 <p align="left">
 <a href="https://twitter.com/budakm_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="budakm_" target="_blank" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/budakm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="budakm" height="30" width="40" /></a>
