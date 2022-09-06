@@ -1,7 +1,8 @@
 <h1 align="center">@mbudak</h1>
 <h5 align="left">👋Hey, I'm a Product Manager at <a href="https://huaweiturkiyearge.com/en/">Huawei</a> working on Petal Search Engine Nearby Application and Petal Maps focusing on improving the service entegration. Before that, I was a Mobile Product Owner in the global operations team of a B2C-focused international company.
 <br>
-I have gained experience in digital marketing, data analyst, front end developer, interface designs, business development and digitalization in more than 10 startups I have worked with before.
+<br>
+I gained experience in front end development, UI designs, digital marketing, business development and digitalization in more than 10 startups I have worked with before.
 
 </h5>
 
