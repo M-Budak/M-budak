@@ -1,5 +1,6 @@
 <h1 align="left">@mbudak</h1>
-<h5 align="center">👋Hey, I'm a Product Manager at <a href="https://huaweiturkiyearge.com/en/">Huawei</a> working on Petal Search Engine Nearby Application and Petal Maps focusing on improving the service entegration. Before that, I was a Mobile Product Owner in the global operations team of a B2C-focused international company.\n
+<h5 align="center">👋Hey, I'm a Product Manager at <a href="https://huaweiturkiyearge.com/en/">Huawei</a> working on Petal Search Engine Nearby Application and Petal Maps focusing on improving the service entegration. Before that, I was a Mobile Product Owner in the global operations team of a B2C-focused international company.
+<td>
 I have gained experience in digital marketing, data analyst, front end developer, interface designs, business development and digitalization in more than 10 startups I have worked with before.
 </h5>
 
@@ -21,5 +22,5 @@ I have gained experience in digital marketing, data analyst, front end developer
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-budak&show_icons=true&locale=en&layout=compact" alt="m-budak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-budak&show_icons=true&locale=en" alt="m-budak" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-budak&show_icons=true&locale=en" alt="m-budak" /></p>
 
